@@ -1,16 +1,17 @@
-### Hi there 👋
+#  Olá, meu nome é Sarah Cristina. Sejam bem - vindos ao Sarah Cristina apresenta: Seu GitHub! 👋🏾
 
-<!--
-**SarahCristina00/SarahCristina00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩🏽‍🎓 Estudante de Sistemas de Informação na Un iversidade Fedral de Juiz de Fora.
+- 🫀 Entusiasta do coração e da tecnologia.
+- ✨ Voluntária no projeto Meninas Digitais UFJF.
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/SarahCristina00"/>
+  <img height="180cm" scr="https://github-readme-stats.vercel.app/api?username=SarahCristina00"/>
+  <img height="180cm" scr="https://github.com/anuraghazra/github-readme-stats"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="mailto:sarahsilva34567@gmail.com"/><img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="www.linkedin.com/in/sarah-cristina-freitas"/><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
+  
