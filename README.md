@@ -6,7 +6,7 @@
 <p>📍 Juiz de Fora/MG.</p>
 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sarah-cristina-freitas)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-cristina-freitas/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarahsilva34567@gmail.com)
 
 ![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahCristina00&show_icons=true&theme=tokyonight)
