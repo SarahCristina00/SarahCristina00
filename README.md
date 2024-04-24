@@ -11,7 +11,7 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5532987082952)
 
 ![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahCristina00&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCristina00&layout=donut-vertical&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCristina00&layout=compact&theme=tokyonight)
 
 ## Linguagens em que programo:
 
