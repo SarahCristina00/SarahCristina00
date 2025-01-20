@@ -1,8 +1,7 @@
 #  Olá, meu nome é Sarah Cristina. Sejam bem - vindos ao Sarah Cristina apresenta: Seu GitHub! 👋🏾
 
 <p>👩🏽‍🎓 Estudante de Sistemas de Informação na Universidade Fedral de Juiz de Fora.</p>
-<p>🫀 Entusiasta do coração e da tecnologia.</p>
-<p>✨ Voluntária no projeto Meninas Digitais UFJF.</p>
+<p> Entusiasta da tecnologia.</p>
 <p>📍 Juiz de Fora/MG.</p>
 
 
