@@ -4,7 +4,7 @@
 
  <br>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8D43B5&background=FF66C400&center=true&width=435&separator=%3D&lines=Cout+%3C%3C+%22Hello+World!%22+%3C%3C+endl;%3Dprintf+(%22Hello+World!%22);%3DSystem.out.println(%22Hello+World!%22)%3Dprint+('Hello+World!')" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8D43B5&background=FF66C400&width=435&separator=%3D&lines=Cout+%3C%3C+%22Hello+World!%22+%3C%3C+endl;%3Dprintf+(%22Hello+World!%22);%3DSystem.out.println(%22Hello+World!%22)%3Dprint+('Hello+World!')" alt="Typing SVG" /></a>
 
 <p>👩🏽‍🎓 Estudante de Sistemas de Informação na Universidade Fedral de Juiz de Fora.</p>
 <p> Entusiasta da tecnologia.</p>
