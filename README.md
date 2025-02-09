@@ -1,4 +1,4 @@
-##  <div align="center"> 👋 Hi! I’m `Sarah Cristina`, welcome to my `GitHub profile` ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧.</div>
+##  <div align="center"> 👋 Hi! meu nome é `Sarah Cristina`, bem vindo(a) ao meu ` perfil GitHub` ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧.</div>
 
 ![github-header-image (3)](header_git.png)
 
