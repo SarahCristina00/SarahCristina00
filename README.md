@@ -1,4 +1,6 @@
-#  Olá, meu nome é Sarah Cristina. Sejam bem - vindos ao Sarah Cristina apresenta: Seu GitHub! 👋🏾
+##  <div align="center"> 👋 Hi! I’m `Sarah Cristina`, welcome to my `GitHub profile` ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧.</div>
+
+![github-header-image (3)](header_github.png)
 
 <p>👩🏽‍🎓 Estudante de Sistemas de Informação na Universidade Fedral de Juiz de Fora.</p>
 <p> Entusiasta da tecnologia.</p>
