@@ -6,6 +6,8 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8D43B5&background=FF66C400&width=435&separator=%3D&lines=Cout+%3C%3C+%22Hello+World!%22+%3C%3C+endl;%3Dprintf+(%22Hello+World!%22);%3DSystem.out.println(%22Hello+World!%22)%3Dprint+('Hello+World!')" alt="Typing SVG" /></a>
 
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=1037939045361993765" height="218" width="236" frameborder="0" scrolling="no" ></iframe>
+
 <p>👩🏽‍🎓 Estudante de Sistemas de Informação na Universidade Fedral de Juiz de Fora.</p>
 <p> Entusiasta da tecnologia.</p>
 <p>📍 Juiz de Fora/MG.</p>
