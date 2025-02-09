@@ -8,10 +8,10 @@
 
 <div>
 <img align="right" alt="sarahcristina" width="230" height="230" src="https://i.pinimg.com/1200x/c5/dd/c4/c5ddc4452ac52cad34a97439d220ed94.jpg")>
-- 👩🏽‍🎓 Estudante de Sistemas de Informação na Universidade Federal de Juiz de Fora.
-- 💻💞 Apaixonada por tecnologia e fascinada pelo universo dos dados 📊✨.
-- 🌱✨ Interesse em trabalhar na área de dados, com foco em análise e segurança.
-- 📍🌎 Atualmente, moro em Juiz de Fora/MG.
+<p> - 👩🏽‍🎓 Estudante de Sistemas de Informação na Universidade Federal de Juiz de Fora.</p>
+<p> - 💻💞 Apaixonada por tecnologia e fascinada pelo universo dos dados 📊✨.</p>
+<p> - 🌱✨ Interesse em trabalhar na área de dados, com foco em análise e segurança.</p>
+<p> - 📍🌎 Atualmente, moro em Juiz de Fora/MG.</p>
 </div>
 
 <br>
