@@ -1,6 +1,6 @@
 ##  <div align="center"> 👋 Hi! meu nome é `Sarah Cristina`, bem vindo(a) ao meu ` perfil GitHub` ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧.</div>
 
-![github-header-image (3)](capa.png)
+![github-header-image (3)](git.png)
 
  <br>
   
