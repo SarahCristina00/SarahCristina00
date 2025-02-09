@@ -21,7 +21,7 @@
 <!-- Link para o repositório SudokuSS -->
 <a href="https://github.com/SarahCristina00/SudokuSS.git">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=DejaVu&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="DejaVu" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sarahcristina&repo=Sudokuss&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="Sudokss" />
   </picture>
 </a>
 
