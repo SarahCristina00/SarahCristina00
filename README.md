@@ -16,7 +16,7 @@
 
 <br>
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFA4C7&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=#8d43b5&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repositorios" alt="Typing SVG" /></a>
 <div align="center">
 <!-- Link para o repositório projetoDejaVu -->
 <a href="https://github.com/lariiscriis/DejaVu">
