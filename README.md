@@ -66,6 +66,8 @@
             <br>C
        </td>
 </table>
+
+
 <br>
 
 
@@ -75,13 +77,6 @@
 
 ![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahCristina00&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCristina00&layout=compact&theme=tokyonight)
-
-## Linguagens em que programo:
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="C"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-
-<img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 
 </div>
