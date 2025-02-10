@@ -69,7 +69,17 @@
 
 
 <br>
-
+## 📲 Fala comigo!:
+<div  align="center">
+<a href="https://www.linkedin.com/in/sarah-cristina-freitas/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-ffa4c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
+</a>
+  <a href="mailto:sarahsilva34567@gmail.com" target="_blank" style="margin-right: 10px;">
+     <img src="https://img.shields.io/badge/-Email-ffa4c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100" height="30" />
+</a>
+ <a href="https://wa.me/5532987082952" target="_blank" style="margin-right: 10px;"
+  <img src="https://img.icons8.com/?size=100&id=u1NG2uJaIZiK&format=png&color=8D43B5" alt="Whatsapp logo" width="100" height="30" />
+ </div>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-cristina-freitas/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarahsilva34567@gmail.com)
