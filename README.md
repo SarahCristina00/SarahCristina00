@@ -28,7 +28,7 @@
 <!-- Link para o repositório do Comercio Eletronico -->
 <a href="https://github.com/SarahCristina00/ComercioEletronico.git">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SarahCristina00&repo=Kanoodle&theme=react&bg_color=8D43B5&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=#ffffff" alt="Kanoodle"/>
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SarahCristina00&repo=ComercioEletronico&theme=react&bg_color=8D43B5&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=#ffffff" alt="ComercioEletronico"/>
   </picture>
 </a>
 
