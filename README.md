@@ -28,14 +28,14 @@
 <!-- Link para o repositório do jogo Kanoodle -->
 <a href="https://github.com/SarahCristina00/Kanoodle">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SarahCristina00&repo=Kanoodle&theme=react&bg_color=8D43B5&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="Kanoodle" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SarahCristina00&repo=Kanoodle&theme=react&bg_color=8D43B5&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=#ffffff" alt="Kanoodle"/>
   </picture>
 </a>
 
 <!-- Link para o repositório Dashboard Viagem -->
 <a href="https://github.com/SarahCristina00/DashboardViagem">
   <picture>
-    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SarahCristina00&repo=DasboardViagem&theme=react&bg_color=8D43B5&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="DashboardViagem" />
+    <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SarahCristina00&repo=DasboardViagem&theme=react&bg_color=8D43B5&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=#ffffff" alt="DashboardViagem" />
   </picture>
 </a>
 
