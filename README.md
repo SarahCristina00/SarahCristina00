@@ -68,7 +68,6 @@
 </table>
 
 
-<br>
 ## 📲 Fala comigo!
 <div  align="center">
 <a href="https://www.linkedin.com/in/sarah-cristina-freitas/" target="_blank" style="margin-right: 10px;">
