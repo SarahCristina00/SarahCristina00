@@ -69,7 +69,7 @@
 
 
 <br>
-## 📲 Fala comigo!:
+## 📲 Fala comigo!
 <div  align="center">
 <a href="https://www.linkedin.com/in/sarah-cristina-freitas/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-ffa4c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
@@ -81,9 +81,6 @@
   <img src="https://img.icons8.com/?size=100&id=u1NG2uJaIZiK&format=png&color=8D43B5" alt="Whatsapp logo" width="100" height="30" />
  </div>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-cristina-freitas/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarahsilva34567@gmail.com)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5532987082952)
 
 ![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahCristina00&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCristina00&layout=compact&theme=tokyonight)
