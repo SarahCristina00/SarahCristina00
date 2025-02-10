@@ -26,21 +26,21 @@
 </a>
 
 <!-- Link para o repositório Laravel_CRUD -->
-<a href="https://github.com/lariiscriis/AnaliseCOVID_googlecolab">
+<a href="https://github.com/SarahCristina00/Kanoodle">
   <picture>
     <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=AnaliseCOVID_googlecolab&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="Analise - Covid19" />
   </picture>
 </a>
 
 <!-- Link para o repositório AtividadeListas_JAVA -->
-<a href="https://github.com/lariiscriis/AtividadeListas_JAVA">
+<a href="https://github.com/SarahCristina00/DashboardViagem">
   <picture>
     <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=AtividadeListas_JAVA&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="AtividadeListas_JAVA" />
   </picture>
 </a>
 
 <p align="center"><br>
-  <a href="https://github.com/lariiscriis?tab=repositories">
+  <a href="https://github.com/SarahCristina00?tab=repositories">
     <picture>
       <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFA4C7?style=for-the-badge&logoColor=fff&logo=repo" alt="All Repositories" title="All Repositories" />
     </picture>
