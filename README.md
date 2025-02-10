@@ -76,6 +76,11 @@
             <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=K6tPX3M1iHhY&format=png&color=8D43B5" alt="c-logo"/>
             <br>C
        </td>
+
+   <td align="center">
+            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=12584&format=png&color=8D43B5" alt="Python-logo"/>
+            <br>Python
+       </td>
 </table>
 
 
