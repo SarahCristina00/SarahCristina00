@@ -25,8 +25,8 @@
   </picture>
 </a>
 
-<!-- Link para o repositório do jogo Kanoodle -->
-<a href="https://github.com/SarahCristina00/Kanoodle">
+<!-- Link para o repositório do Comercio Eletronico -->
+<a href="https://github.com/SarahCristina00/ComercioEletronico.git">
   <picture>
     <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SarahCristina00&repo=Kanoodle&theme=react&bg_color=8D43B5&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=#ffffff" alt="Kanoodle"/>
   </picture>
