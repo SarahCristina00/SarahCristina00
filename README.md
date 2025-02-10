@@ -96,6 +96,6 @@
   <img src="https://img.icons8.com/?size=100&id=u1NG2uJaIZiK&format=png&color=8D43B5" alt="Whatsapp logo" width="100" height="30" />
  </div>
 
-  ##  <div align="center"> Obrigada pela visita ao meu`GitHub`. Até a próxima!! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧.</div>
+  ##  <div align="center"> Obrigada pela visita ao meu`GitHub`. Até a próxima!! ⸜(｡˃ ᵕ ˂ )⸝♡.</div>
 
   
