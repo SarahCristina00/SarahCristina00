@@ -51,10 +51,10 @@
 
 ##  📊 Stats  
 <div align="center">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCristina00&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCristina00&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=8D43B5&card_width=200" alt="readme-typing-svg">
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
-    <img   width="50%" alt="SarahCristina00 GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SarahCristina00?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=FFA4C7FF&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=8D43B5">
+    <img   width="50%" alt="SarahCristina00 GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SarahCristina00?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=FFA4C7FF&Title=FFA4C7&Ring=FFA4C7&Border=8D43B5" />
   </a>
 </p>
 
