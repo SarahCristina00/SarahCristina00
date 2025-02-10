@@ -94,13 +94,6 @@
  <a href="https://wa.me/5532987082952" target="_blank" style="margin-right: 10px;"
   <img src="https://img.icons8.com/?size=100&id=u1NG2uJaIZiK&format=png&color=8D43B5" alt="Whatsapp logo" width="100" height="30" />
  </div>
-
-
-![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahCristina00&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCristina00&layout=compact&theme=tokyonight)
-
-
-</div>
   
 ## Outras tecnologias e sistemas que uso no dia a dia:
 
