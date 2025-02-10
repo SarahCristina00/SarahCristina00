@@ -54,7 +54,7 @@
 <table align="center">
     <tr>
         <td align="center">
-             <img style="width: 100%; max-width: 300px;" src="https://github.com/user-attachments/assets/56735c1b-a91d-4f40-8dd7-b9276f44b004" alt="java-coffee-cup-logo"/>
+             <img style="width: 100%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=LRQRAS9l8QCe&format=png&color=8D43B5" alt="java-coffee-cup-logo"/>
             <br>Java 
         </td>
        <td align="center">
