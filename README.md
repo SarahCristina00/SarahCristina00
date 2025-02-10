@@ -61,6 +61,10 @@
             <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/c0a5f3a6-9e44-4551-aa95-2311c1422167" alt="cplus-logo"/>
             <br>C++
        </td>
+     <td align="center">
+            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=K6tPX3M1iHhY&format=png&color=000000" alt="c-logo"/>
+            <br>C++
+       </td>
 </table>
 <br>
 
