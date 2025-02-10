@@ -42,7 +42,7 @@
 <p align="center"><br>
   <a href="https://github.com/SarahCristina00?tab=repositories">
     <picture>
-      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFA4C7?style=for-the-badge&logoColor=fff&logo=repo&bg_color=8D43B5" alt="All Repositories" title="All Repositories" />
+      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFA4C7?style=for-the-badge&bg_color=8D43B5&logoColor=fff&logo=repo" alt="All Repositories" title="All Repositories" />
     </picture>
   </a>
 </p>
