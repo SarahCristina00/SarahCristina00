@@ -18,21 +18,19 @@
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=8D43B5&background=FF66C400&repeat=false&width=435&lines=💜+Reposit%C3%B3rios+Favoritos" alt="Typing SVG" /></a>
 <div align="center">
-<!-- Link para o repositório SudokuSS -->
+
 <a href="https://github.com/SarahCristina00/SudokuSS.git">
   <picture>
     <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SarahCristina00&repo=SudokuSS&theme=react&bg_color=8D43B5&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=#ffffff" alt="Sudokss" />
   </picture>
 </a>
 
-<!-- Link para o repositório do Comercio Eletronico -->
 <a href="https://github.com/SarahCristina00/ComercioEletronico.git">
   <picture>
     <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SarahCristina00&repo=ComercioEletronico&theme=react&bg_color=8D43B5&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=#ffffff" alt="ComercioEletronico"/>
   </picture>
 </a>
 
-<!-- Link para o repositório Dashboard Viagem -->
 <a href="https://github.com/SarahCristina00/DashboardViagem.git">
   <picture>
     <img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SarahCristina00&repo=DashboardViagem&theme=react&bg_color=8D43B5&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=#ffffff" alt="DashboardViagem" />
