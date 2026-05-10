@@ -8,10 +8,9 @@
 
 <div>
 <img align="right" alt="sarahcristina" width="230" height="230" src="https://i.pinimg.com/1200x/c5/dd/c4/c5ddc4452ac52cad34a97439d220ed94.jpg")>
-<p> - 👩🏽‍🎓 Estudante de Sistemas de Informação na Universidade Federal de Juiz de Fora.</p>
-<p> - 💻💞 Apaixonada por tecnologia e fascinada pelo universo dos dados 📊✨.</p>
-<p> - 🌱✨ Interesse em trabalhar na área de dados, com foco em análise e segurança.</p>
-<p> - 📍🌎 Atualmente, moro em Juiz de Fora/MG.</p>
+<p> -  Estudante de Sistemas de Informação na Universidade Federal de Juiz de Fora.</p>
+<p> -  Apaixonada por tecnologia e fascinada pelo universo dos dados 📊✨.</p>
+<p> -  Interesse em trabalhar na área de dados, com foco em análise e segurança.</p>
 </div>
 
 <br>
@@ -58,7 +57,7 @@
 
 </div>
 
-## 🛠️ Trabalho com:
+##  Trabalho com:
 
 <table align="center">
     <tr>
@@ -82,7 +81,7 @@
 </table>
 
 
-## 📲 Fala comigo!
+## Fala comigo!
 <div  align="center">
 <a href="https://www.linkedin.com/in/sarah-cristina-freitas/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-ffa4c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
